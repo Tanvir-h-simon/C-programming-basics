@@ -1,4 +1,3 @@
-# Topic-wise C programming
-This is my first Git Repository.
+Topic-wise problem solving of C programming (Basics)
 <br>
 Author: Tanvir Hossain
