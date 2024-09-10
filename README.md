@@ -1,3 +1,4 @@
 # Topic-wise C programming
-Thus is my first Git Repository.
+This is my first Git Repository.
+<br>
 Author: Tanvir Hossain
